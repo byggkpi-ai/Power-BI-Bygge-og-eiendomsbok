@@ -11,4 +11,4 @@ Screenshot:
 <img src="Documents/Bygge- og eiendomsbok.png" alt="Bygge- og eiendomsbok" style="width: 1000px" />
 
 [!NOTE]
-To have access to the app, it might be needed an Power BI Pro license, and to get permission, please send an email to [info@byggkpi.no](mailto:info@byggkpi.no?subject[PowerBI%20Bygge]%20Access%20Bygge-%20og%20eiendom%20app).
+To have access to the app, it might be needed an Power BI Pro license, and to get permission, please send an email to [info@byggkpi.no](mailto:info@byggkpi.no?subject=[Power%20BI]%20Access%20Bygge-%20og%20eiendom%20app).
