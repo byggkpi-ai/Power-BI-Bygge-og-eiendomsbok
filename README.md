@@ -10,4 +10,5 @@ This Power BI app is under testing. It includes several interactive diagrams con
 Screenshot:
 <img src="Documents/Bygge- og eiendomsbok.png" alt="Bygge- og eiendomsbok" style="width: 1000px" />
 
-To have access to the app, it might be needed an Power BI Pro license, and to get permission, please send an email to [info@byggkpi.no](info@byggkpi.no).
+[!NOTE]
+To have access to the app, it might be needed an Power BI Pro license, and to get permission, please send an email to [info@byggkpi.no](mailto:info@byggkpi.no?subject[PowerBI%20Bygge]%20Access%20Bygge-%20og%20eiendom%20app).
