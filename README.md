@@ -23,3 +23,6 @@ It also includes 9 charts  in the group 'Indekser', 5 charts in the group 'Bygge
 
 > [!NOTE]
 > To have access to the app, it might be needed a Power BI Pro license, and to get permission, please send an email to [info@byggkpi.no](mailto:info@byggkpi.no?subject=[Power%20BI]%20Access%20Bygge-%20og%20eiendom%20app).
+
+> [!IMPORTANT]
+> The updating of the datasets is being made frequently already.
