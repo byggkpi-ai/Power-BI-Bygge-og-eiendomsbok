@@ -14,7 +14,7 @@ The current version includes, for example, the following datasets:
     * Skogavvirkning for salg [07405: Gjennomsnittspris, etter sortiment (kr per m³)](https://www.ssb.no/statbank/table/07405) (SSB)
     * Elektrisitetspriser [09364: Kraftpriser i sluttbrukermarkedet, etter kontraktstype](https://www.ssb.no/statbank/table/09364) (SSB)
     * Sal av petroleumsprodukt og flytande biodrivstoff [09654: Priser på drivstoff (kr per liter)](https://www.ssb.no/statbank/table/09654) (SSB)
-    * Antall arbeidsforhold og lønn [11658: Yrkes- (4-siffernivå), kjønns- og aldersfordeling for lønnstakere, jobber og lønn] (https://www.ssb.no/statbank/table/11658) (SSB)
+    * Antall arbeidsforhold og lønn [11658: Yrkes- (4-siffernivå), kjønns- og aldersfordeling for lønnstakere, jobber og lønn](https://www.ssb.no/statbank/table/11658) (SSB)
     * Crude Oil Prices: Brent - Europe ([DCOILBRENTEU](https://fred.stlouisfed.org/series/DCOILBRENTEU)) (FRED)
     * Norges Bank [Styringsrenten](https://www.norges-bank.no/tema/pengepolitikk/Styringsrenten/) (NB)
     * Norges Bank [Valutakurser](https://www.norges-bank.no/tema/Statistikk/Valutakurser/) (NB)
