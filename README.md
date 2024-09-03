@@ -2,7 +2,7 @@
 
 # Power BI Bygge- og eiendomsbok
 
-This Power BI app is under testing. It includes several interactive charts connected to public statistics databases about prices and indexes that are relevant in the Norwegian Construction and Real Estate markets.
+This Power BI app is under testing. It includes several interactive charts connected to public statistics databases about prices and indexes that are relevant in the Norwegian Construction and Real Estate markets. All the text of the charts and sliders is in Norwegian.
 
 Screenshot:
 <img src="Documents/Bygge- og eiendomsbok.png" alt="Bygge- og eiendomsbok" style="width: 1000px" />
