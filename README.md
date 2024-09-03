@@ -21,8 +21,10 @@ The current version includes, for example, the following datasets:
 
 It also includes 9 charts  in the group 'Indekser', 5 charts in the group 'Byggemasser', 12 charts in the group 'Byggareal', 11 charts in the group 'Bolig pris og utleie' and 7 charts in the group 'Saksbehandling'.
 
+
 > [!NOTE]
 > To have access to the app, it might be needed a Power BI Pro license, and to get permission, please send an email to [info@byggkpi.no](mailto:info@byggkpi.no?subject=[Power%20BI]%20Access%20Bygge-%20og%20eiendom%20app).
+
 
 > [!IMPORTANT]
 > The updating of the datasets is being made frequently already.
