@@ -1,6 +1,6 @@
-<img src="Documents/Logo Black.png" alt="ByggKPI Logo" style="width: 200px" />  
+<img src="./Documents/Logo Black.png" alt="ByggKPI Logo" style="width: 200px" />  
 
-# Power BI Byggekostnadindeks
+# Byggekostnadindeks.pbix
 
 This Power BI file shows an example how to get data from Statistics Norway ([SSB](https://www.ssb.no/)). The selected table is [08651: Byggekostnadsindeks for bustader i alt, etter arbeidstype (2015=100)](https://www.ssb.no/statbank/table/08651). This table shows the index monthly.
 
