@@ -1,6 +1,6 @@
 <img src="Documents/Logo Black.png" alt="ByggKPI Logo" style="width: 200px" />  
 
-# Power BI Bygge- og eiendomsbok
+# Power BI: Bygge- og eiendomsbok
 
 This Power BI app is under testing. It includes several interactive charts connected to public statistics databases about prices and indexes that are relevant about Norwegian Construction and Real Estate. All the text of the charts and sliders is in Norwegian.
 
