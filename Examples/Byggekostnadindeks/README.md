@@ -6,5 +6,6 @@ This Power BI file shows an example how to get data from Statistics Norway ([SSB
 
 The script for the query was obtained with the use of [Q4OpenData](https://stat.qumio.com/) - query for open data. The query was adapted to allow that with the refresh of data it gets from the API the latest updated month.
 
+For more information about [SSB API](https://www.ssb.no/api) can be found on its website.
 
 
