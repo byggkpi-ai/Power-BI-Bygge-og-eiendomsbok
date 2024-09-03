@@ -7,7 +7,7 @@ This Power BI app is under testing. It includes several interactive charts conne
 Screenshot:
 <img src="Documents/Bygge- og eiendomsbok.png" alt="Bygge- og eiendomsbok" style="width: 1000px" />
 
-The current version includes, for example, the following datasets:
+The current version includes, for example, the following charts:
 
 - Varer og resurser:
     * Produsentprisindeksen [07199: Spotpris metaller](https://www.ssb.no/statbank/table/07199) (SSB)
