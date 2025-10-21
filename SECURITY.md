@@ -4,4 +4,4 @@ This application connects to the official API provided by Statistics Norway (SSB
 
 No user credentials or sensitive information are handled by the application. Users are responsible for securing their own Power BI environments and ensuring proper access controls.
 
-For inquiries related to security, please contact info@byggpi.no.
+For inquiries related to security, please contact [info@byggkpi.no](mailto:info@bygg)
