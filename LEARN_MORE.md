@@ -10,7 +10,7 @@ The app includes five thematic presentations, one consolidated dataset, and a co
 
 All data used in this application is retrieved from the official API provided by Statistics Norway (SSB). The API offers access to a wide range of statistical indicators and is publicly accessible.
 
-- **API Provider**: Statistics Norway (SSB)
+- **API Provider**: Statistics Norway ([SSB](https://www.ssb.no/))
 - **API Type**: Read-only, public access
 - **Documentation**: [SSB API Documentation](https://www.ssb.no/en/api)
 
