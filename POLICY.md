@@ -8,7 +8,7 @@ Users are expected to use the application responsibly and in accordance with app
 
 ## Data Transparency
 
-The application utilizes publicly available datasets from Statistics Norway (SSB) via their official API. All data presented is sourced directly from SSB and is subject to their terms of use and data accuracy.
+The application utilizes publicly available datasets from Statistics Norway ([SSB](https://www.ssb.no/)) via their official API. All data presented is sourced directly from SSB and is subject to their terms of use and data accuracy.
 
 ## No Guarantees
 
