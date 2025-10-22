@@ -49,6 +49,6 @@ For further information, please refer to the following documents:
 If you have questions, suggestions, or need assistance, please contact:
 
 - **Email**: [info@byggkpi.no](mailto:info@byggkpi.no)
-- **GitHub Issues**: Visit the repository and open an issue
+- **[GitHub Issues](https://github.com/byggkpi-ai/Power-BI-Bygge-og-eiendomsbok/issues)**: Visit the repository and open an issue
 
 We welcome feedback to improve the app and its usability.
