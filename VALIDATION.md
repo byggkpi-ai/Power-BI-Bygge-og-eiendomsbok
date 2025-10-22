@@ -37,4 +37,4 @@ Confirm that it provides a clear summary of the app’s structure and content.
 
 # 7. Report Issues
 
-If any issues are found, contact info@byggkpi.no or submit a GitHub issue in the repository.
+If any issues are found, contact info@byggkpi.no or submit a GitHub [issue](https://github.com/byggkpi-ai/Power-BI-Bygge-og-eiendomsbok/issues) in the repository.
