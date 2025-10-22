@@ -2,7 +2,7 @@
 
 # Power BI: Bygge- og eiendomsbok
 
-This Power BI app is under testing. It includes several interactive charts connected to public statistics databases about prices and indexes that are relevant about Norwegian Construction and Real Estate. All the text of the charts and sliders is in Norwegian.
+This Power BI app is under testing. It includes several interactive charts connected to public statistics databases of Norway Statistics about prices and indexes that are relevant about Norwegian Construction and Real Estate. All the text of the charts and sliders is in Norwegian.
 
 Screenshot:
 <img src="Documents/Bygge- og eiendomsbok.png" alt="Bygge- og eiendomsbok" style="width: 1000px" />
@@ -16,12 +16,13 @@ The current version includes, for example, the following datasets:
     * Sal av petroleumsprodukt og flytande biodrivstoff [09654: Priser på drivstoff (kr per liter)](https://www.ssb.no/statbank/table/09654) ([SSB](https://www.ssb.no))
 
 
-It also includes 9 charts  in the group 'Indekser', 5 charts in the group 'Byggemasser', 12 charts in the group 'Byggareal', 11 charts in the group 'Bolig pris og utleie' and 7 charts in the group 'Saksbehandling'.
+It also includes 10 charts  in the group 'Byggeindekser', 8 charts in the group 'Bolig og utleie', 5 charts in the group 'Byggemasser' and 6 charts in the group 'Saksbehandling'.
 
 
 > [!IMPORTANT]
-> To have access to the app, it might be needed a Power BI Pro license, and to get permission, please send an email to [info@byggkpi.no](mailto:info@byggkpi.no?subject=[Power%20BI]%20Access%20Bygge-%20og%20eiendom%20app).
+> To have access to the app, it might be needed a Power BI Pro license.
+> You have any doubt please send an email to [info@byggkpi.no](mailto:info@byggkpi.no?subject=[Power%20BI]%20Access%20Bygge-%20og%20eiendom%20app).
 
 
 > [!NOTE]
-> The updating of the datasets is being made frequently already.
+> The updating of the datasets is not implemented yet.
