@@ -40,7 +40,7 @@ User Guidance
 Learn More
 Policy Statement
 
-7. Intended Audience
+## 7. Intended Audience
 
 Construction professionals, analysts, policymakers, and researchers.
 Users seeking accessible, visual insights from official Norwegian statistics.
