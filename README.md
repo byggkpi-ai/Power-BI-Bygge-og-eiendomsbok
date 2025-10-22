@@ -2,7 +2,7 @@
 
 # Power BI: Bygge- og eiendomsbok
 
-This Power BI app is under testing. It includes several interactive charts connected to public statistics databases of Norway Statistics about prices and indexes that are relevant about Norwegian Construction and Real Estate. All the text of the charts and sliders is in Norwegian.
+This Power BI app is under testing. It includes several interactive charts connected to public statistics databases of [Statistics Norway](https://www.ssb.no) about prices and indexes that are relevant about Norwegian Construction and Real Estate. All the text of the charts and sliders is in Norwegian.
 
 Screenshot:
 <img src="Documents/Bygge- og eiendomsbok.png" alt="Bygge- og eiendomsbok" style="width: 1000px" />
@@ -10,10 +10,10 @@ Screenshot:
 The current version includes, for example, the following datasets:
 
 - Byggekostnader:
-    * Produsentprisindeksen [07199: Spotpris metaller](https://www.ssb.no/statbank/table/07199) ([SSB](https://www.ssb.no))
-    * Skogavvirkning for salg [07405: Gjennomsnittspris, etter sortiment (kr per m³)](https://www.ssb.no/statbank/table/07405) ([SSB](https://www.ssb.no))
-    * Elektrisitetspriser [09364: Kraftpriser i sluttbrukermarkedet, etter kontraktstype](https://www.ssb.no/statbank/table/09364) ([SSB](https://www.ssb.no))
-    * Sal av petroleumsprodukt og flytande biodrivstoff [09654: Priser på drivstoff (kr per liter)](https://www.ssb.no/statbank/table/09654) ([SSB](https://www.ssb.no))
+    * Produsentprisindeksen [07199: Spotpris metaller](https://www.ssb.no/statbank/table/07199)
+    * Skogavvirkning for salg [07405: Gjennomsnittspris, etter sortiment (kr per m³)](https://www.ssb.no/statbank/table/07405)
+    * Elektrisitetspriser [09364: Kraftpriser i sluttbrukermarkedet, etter kontraktstype](https://www.ssb.no/statbank/table/09364)
+    * Sal av petroleumsprodukt og flytande biodrivstoff [09654: Priser på drivstoff (kr per liter)](https://www.ssb.no/statbank/table/09654)
 
 
 It also includes 10 charts  in the group 'Byggeindekser', 8 charts in the group 'Bolig og utleie', 5 charts in the group 'Byggemasser' and 6 charts in the group 'Saksbehandling'.
