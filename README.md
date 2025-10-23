@@ -16,7 +16,7 @@ The current version includes, for example, the following datasets:
     * Sal av petroleumsprodukt og flytande biodrivstoff [09654: Priser på drivstoff (kr per liter)](https://www.ssb.no/statbank/table/09654)
 
 
-It also includes 10 charts  in the group 'Byggekostnadsindekser', 8 charts in the group 'Bolig og utleie', 5 charts in the group 'Byggemasser' and 6 charts in the group 'Saksbehandling'.
+It also includes 10 charts  in the group 'Byggekostnadsindekser'.
 
 
 > [!IMPORTANT]
