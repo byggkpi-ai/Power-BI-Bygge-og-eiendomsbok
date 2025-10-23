@@ -17,7 +17,7 @@ Each report contains multiple pages with time series charts, slicers, and filter
 To install and configure the app:
 
 1. **Install from AppSource**  
-   Visit [Microsoft AppSource](httpsrch for **ByggKPI – Construction Industry Insights**. Click **Get it now** and follow the prompts to install the app into your Power BI workspace.
+   Visit [Microsoft AppSource](https://https://apps.microsoft.com) and search for **ByggKPI – Construction Industry Insights**. Click **Get it now** and follow the prompts to install the app into your Power BI workspace.
 
 2. **Connect to the SSB API**  
    The app uses live data from Statistics Norway via their public API. No authentication is required. Upon first use:
@@ -36,7 +36,7 @@ To install and configure the app:
 
 - **Provider**: Statistics Norway (SSB)
 - **API Type**: Public, read-only
-- **Documentation**: [SSB API Documentation
+- **Documentation**: [SSB API Documentation](https://www.ssb.no/en/api)
 ---
 
 ## Use Cases
