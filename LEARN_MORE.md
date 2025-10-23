@@ -59,14 +59,19 @@ To install and configure the app:
 
 ## Additional Documentation
 
-For more detailed guidance, please refer to:
+For further information, please refer to the following documents:
 
-- [Installation Guide](INSTALLuidance](GUIDport](SUPivacy Policy](PRerms of Use](TER
+- [Installation Guide](INSTALLATION.md)
+- [User Guidance](GUIDANCE.md)
+- [Support](SUPPORT.md)
+- [Privacy Policy](PRIVACY.md)
+- [Terms of Use](TERMS.md)
+
 ## Contact & Feedback
 
 We welcome your feedback and questions:
 
-- **Email**: [info@byggkpi.no](mailto:info@byggkpi.noit the repository and open an issue
+- **Email**: [info@byggkpi.no](mailto:info@byggkpi.no) or visit the repository and open an issue
 
 Your input helps us improve the app and its usability.
 
