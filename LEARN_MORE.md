@@ -25,9 +25,11 @@ To install and configure the app:
    - Ensure your Power BI service has internet access to reach `https://data.ssb.no/api`.
 
 3. **Refresh the Dataset**  
-   After installation, go to the dataset settings and schedule refreshes to keep your data up to date.
+   After installation, go to the dataset settings and schedule refreshes to keep your data up to date:
+   - Authentication method: Anonymous
+   - Privacy level settings for this data source: None
 
-4. **Customize Filters and Views**  
+5. **Customize Filters and Views**  
    Use slicers to select time periods, dimensions, and statistical variables. You can also export visuals for reporting purposes.
 
 ---
