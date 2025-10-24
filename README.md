@@ -6,7 +6,7 @@
 
 ## 🚀 Install the App
 
-![Install from Microsoft Store](https://marketplace.microsoft.com/en-us/product/power-bi/byggkpi1713816406537.bygg_og_eiemdombok)
+[![Install from Microsoft Store](https://marketplace.microsoft.com/en-us/product/power-bi/byggkpi1713816406537.bygg_og_eiemdombok)
 
 This Power BI app is under testing. It includes several interactive charts connected to public statistics databases of [Statistics Norway](https://www.ssb.no) about prices and indexes that are relevant about Norwegian Construction and Real Estate. All the text of the charts and sliders is in Norwegian.
 
