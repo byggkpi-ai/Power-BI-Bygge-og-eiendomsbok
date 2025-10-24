@@ -1,6 +1,6 @@
 <img src="Documents/Logo Black.jpg" alt="ByggKPI Logo" style="width: 200px" />  
 
-[![Install from Microsoft Store](https://img.shields.io/badge/Install%20App-Microsoft%20Store-blue?logo
+[![Install from Microsoft Store](https://img.shields.io/badge/Install%20App-Microsoft%20Store-blue?logo)
 
 # Power BI: Bygge- og eiendomsbok
 
