@@ -34,4 +34,4 @@ It also includes 10 charts  in the group 'Byggekostnadsindekser'.
 
 
 > [!NOTE]
-> The updating of the datasets is not implemented yet.
+> The updating of the datasets is implemented but under testing.
