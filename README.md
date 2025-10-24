@@ -5,7 +5,10 @@
 # Power BI: Bygge- og eiendomsbok
 
 
-![Install from Microsoft Store](https://img.shields.io/badge/Install%20App-Microsoft%20Store-blue?logo&link=https://marketplace.microsoft.com/en-us/product/power-bi/byggkpi1713816406537.bygg_og_eiemdombok)
+[![Install from Microsoft Store][badge]][store]
+
+[badge]: https://img.shields.io/badge/Install_from-Microsoft_Store-blue?style=for-the-badge&logot&logoColor=white
+[store]: https://marketplace.microsoft.com/en-us/product/power-bi/byggkpi1713816406537.bygg_og_eiemdombok?tab=Overview
 
 
 This Power BI app is under testing. It includes several interactive charts connected to public statistics databases of [Statistics Norway](https://www.ssb.no) about prices and indexes that are relevant about Norwegian Construction and Real Estate. All the text of the charts and sliders is in Norwegian.
